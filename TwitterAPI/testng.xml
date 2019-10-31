@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="Twitter_Test.CreateAndDelete"/>
+      <class name="Twitter_Test.Display"/>
+      <class name="Twitter_Test.Block"/>
+      <class name="Twitter_Test.HashtagQualitest"/>
+      <class name="Twitter_Test.Weather"/>
+      <class name="Twitter_Test.Retweet"/>
+      <class name="Twitter_Test.Hashtags"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

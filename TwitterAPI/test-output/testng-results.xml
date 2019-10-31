@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24832" started-at="2019-10-31T03:39:12Z" finished-at="2019-10-31T03:39:37Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="24832" started-at="2019-10-31T03:39:12Z" finished-at="2019-10-31T03:39:37Z">
+      <class name="Twitter_Test.CreateAndDelete">
+        <test-method status="PASS" signature="TestPost()[pri:0, instance:Twitter_Test.CreateAndDelete@6e6c3152]" name="TestPost" duration-ms="11165" started-at="2019-10-31T09:09:12Z" finished-at="2019-10-31T09:09:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestPost -->
+      </class> <!-- Twitter_Test.CreateAndDelete -->
+      <class name="Twitter_Test.Display">
+        <test-method status="PASS" signature="TestPost()[pri:0, instance:Twitter_Test.Display@50b494a6]" name="TestPost" duration-ms="1932" started-at="2019-10-31T09:09:24Z" finished-at="2019-10-31T09:09:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestPost -->
+      </class> <!-- Twitter_Test.Display -->
+      <class name="Twitter_Test.Hashtags">
+        <test-method status="PASS" signature="Trends()[pri:0, instance:Twitter_Test.Hashtags@cd2dae5]" name="Trends" duration-ms="6170" started-at="2019-10-31T09:09:31Z" finished-at="2019-10-31T09:09:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Trends -->
+      </class> <!-- Twitter_Test.Hashtags -->
+      <class name="Twitter_Test.HashtagQualitest">
+        <test-method status="PASS" signature="TestPost()[pri:0, instance:Twitter_Test.HashtagQualitest@32709393]" name="TestPost" duration-ms="806" started-at="2019-10-31T09:09:27Z" finished-at="2019-10-31T09:09:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestPost -->
+      </class> <!-- Twitter_Test.HashtagQualitest -->
+      <class name="Twitter_Test.Retweet">
+        <test-method status="PASS" signature="Retweetthetweet()[pri:0, instance:Twitter_Test.Retweet@49fc609f]" name="Retweetthetweet" duration-ms="2667" started-at="2019-10-31T09:09:28Z" finished-at="2019-10-31T09:09:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Retweetthetweet -->
+      </class> <!-- Twitter_Test.Retweet -->
+      <class name="Twitter_Test.Block">
+        <test-method status="PASS" signature="getFile()[pri:0, instance:Twitter_Test.Block@3cef309d]" name="getFile" is-config="true" duration-ms="149" started-at="2019-10-31T09:09:12Z" finished-at="2019-10-31T09:09:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getFile -->
+        <test-method status="PASS" signature="getFile()[pri:0, instance:Twitter_Test.CreateAndDelete@6e6c3152]" name="getFile" is-config="true" duration-ms="20" started-at="2019-10-31T09:09:12Z" finished-at="2019-10-31T09:09:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getFile -->
+        <test-method status="PASS" signature="getFile()[pri:0, instance:Twitter_Test.Display@50b494a6]" name="getFile" is-config="true" duration-ms="7" started-at="2019-10-31T09:09:12Z" finished-at="2019-10-31T09:09:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getFile -->
+        <test-method status="PASS" signature="getFile()[pri:0, instance:Twitter_Test.HashtagQualitest@32709393]" name="getFile" is-config="true" duration-ms="5" started-at="2019-10-31T09:09:12Z" finished-at="2019-10-31T09:09:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getFile -->
+        <test-method status="PASS" signature="getFile()[pri:0, instance:Twitter_Test.Hashtags@cd2dae5]" name="getFile" is-config="true" duration-ms="5" started-at="2019-10-31T09:09:12Z" finished-at="2019-10-31T09:09:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getFile -->
+        <test-method status="PASS" signature="getFile()[pri:0, instance:Twitter_Test.Retweet@49fc609f]" name="getFile" is-config="true" duration-ms="7" started-at="2019-10-31T09:09:12Z" finished-at="2019-10-31T09:09:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getFile -->
+        <test-method status="PASS" signature="getFile()[pri:0, instance:Twitter_Test.Weather@3d99d22e]" name="getFile" is-config="true" duration-ms="6" started-at="2019-10-31T09:09:12Z" finished-at="2019-10-31T09:09:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getFile -->
+        <test-method status="PASS" signature="block1()[pri:0, instance:Twitter_Test.Block@3cef309d]" name="block1" duration-ms="1071" started-at="2019-10-31T09:09:26Z" finished-at="2019-10-31T09:09:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- block1 -->
+      </class> <!-- Twitter_Test.Block -->
+      <class name="Twitter_Test.Weather">
+        <test-method status="PASS" signature="TestPost()[pri:0, instance:Twitter_Test.Weather@3d99d22e]" name="TestPost" duration-ms="728" started-at="2019-10-31T09:09:27Z" finished-at="2019-10-31T09:09:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestPost -->
+      </class> <!-- Twitter_Test.Weather -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
